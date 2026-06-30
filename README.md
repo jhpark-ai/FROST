@@ -1,6 +1,4 @@
-# FROST
-
-### FROST: Training-Free Few-Shot Segmentation with Frozen Features and Nonparametric Statistics
+# FROST: Training-Free Few-Shot Segmentation with Frozen Features and Nonparametric Statistics
 
 **Junghwan Park**
 
