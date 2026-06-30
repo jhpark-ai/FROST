@@ -101,3 +101,7 @@ count and widens its margin as the support set grows.
     <td align="center"><b>10-shot</b></td>
   </tr>
 </table>
+
+## License
+
+This project is released under the [Apache 2.0 License](LICENSE).
